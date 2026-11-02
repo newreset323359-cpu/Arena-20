@@ -1,0 +1,10 @@
+{
+  "name": "20 Classic Games Offline",
+  "short_name": "Arcade20",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101226",
+  "theme_color": "#111329",
+  "description": "20 classic offline arcade games",
+  "icons": []
+}
